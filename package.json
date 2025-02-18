@@ -1,0 +1,22 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Ttutorial mnongodb",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago1347/MongoDB.git"
+  },
+  "author": "Thiago Nascimento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thiago1347/MongoDB/issues"
+  },
+  "homepage": "https://github.com/Thiago1347/MongoDB#readme",
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
